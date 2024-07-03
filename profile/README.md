@@ -1,5 +1,5 @@
 # Superchain
 
-The Open Index Protocol
+The Immersive Web3 Environment
 
-`By collecting and customizing data in minutes, Superchain serves as the layer on top of which builders create applications, faster.`
+`A trustless data network from which to explore and interact with blockchains, enabling the best crypto experience.`
