@@ -1,4 +1,4 @@
-# Pangea Foundation
+# Pangea
 
 The First Immersive Web3 Environment
 
